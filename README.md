@@ -5,9 +5,9 @@ Url to qr-code generator script - Python
 pip3 install -r requirements.txt
 ```
 ```sh
-chmod +x main.py
+chmod +x url-qr.py
 ```
 
 ```sh
-./main.py
+./url-qr.py
 ```
